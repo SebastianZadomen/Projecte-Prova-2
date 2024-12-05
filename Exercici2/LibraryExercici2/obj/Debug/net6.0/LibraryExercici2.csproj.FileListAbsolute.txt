@@ -1,0 +1,12 @@
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\bin\Debug\net6.0\LibraryExercici2.deps.json
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\bin\Debug\net6.0\LibraryExercici2.dll
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\bin\Debug\net6.0\LibraryExercici2.pdb
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.csproj.AssemblyReference.cache
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.AssemblyInfoInputs.cache
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.AssemblyInfo.cs
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.csproj.CoreCompileInputs.cache
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.dll
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\refint\LibraryExercici2.dll
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\LibraryExercici2.pdb
+C:\Users\argom\Desktop\ExamenProva2\Projecte-Prova-2\Exercici2\LibraryExercici2\obj\Debug\net6.0\ref\LibraryExercici2.dll
